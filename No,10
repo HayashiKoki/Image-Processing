@@ -15,4 +15,4 @@ IMG = edge(ORG,'canny'); % エッジ抽出（キャニー法）
 imagesc(IMG); colormap('gray'); colorbar;% 画像表示
 pause; % 一時停止
 
-https://user-images.githubusercontent.com/32251471/34907062-1f49d870-f8bc-11e7-839e-a4dc9b5e4502.PNG
+https://github.com/HayashiKoki/Image-Processing/blob/master/1.PNG
